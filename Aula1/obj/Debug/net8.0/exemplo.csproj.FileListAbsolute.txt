@@ -1,0 +1,14 @@
+C:\Users\alannileal\Documents\aula\exemplo\bin\Debug\net8.0\exemplo.exe
+C:\Users\alannileal\Documents\aula\exemplo\bin\Debug\net8.0\exemplo.deps.json
+C:\Users\alannileal\Documents\aula\exemplo\bin\Debug\net8.0\exemplo.runtimeconfig.json
+C:\Users\alannileal\Documents\aula\exemplo\bin\Debug\net8.0\exemplo.dll
+C:\Users\alannileal\Documents\aula\exemplo\bin\Debug\net8.0\exemplo.pdb
+C:\Users\alannileal\Documents\aula\exemplo\obj\Debug\net8.0\exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alannileal\Documents\aula\exemplo\obj\Debug\net8.0\exemplo.AssemblyInfoInputs.cache
+C:\Users\alannileal\Documents\aula\exemplo\obj\Debug\net8.0\exemplo.AssemblyInfo.cs
+C:\Users\alannileal\Documents\aula\exemplo\obj\Debug\net8.0\exemplo.csproj.CoreCompileInputs.cache
+C:\Users\alannileal\Documents\aula\exemplo\obj\Debug\net8.0\exemplo.dll
+C:\Users\alannileal\Documents\aula\exemplo\obj\Debug\net8.0\refint\exemplo.dll
+C:\Users\alannileal\Documents\aula\exemplo\obj\Debug\net8.0\exemplo.pdb
+C:\Users\alannileal\Documents\aula\exemplo\obj\Debug\net8.0\exemplo.genruntimeconfig.cache
+C:\Users\alannileal\Documents\aula\exemplo\obj\Debug\net8.0\ref\exemplo.dll
