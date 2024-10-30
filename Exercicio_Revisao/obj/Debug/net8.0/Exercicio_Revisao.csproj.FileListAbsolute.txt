@@ -1,0 +1,15 @@
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\bin\Debug\net8.0\Exercicio_Revisao.exe
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\bin\Debug\net8.0\Exercicio_Revisao.deps.json
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\bin\Debug\net8.0\Exercicio_Revisao.runtimeconfig.json
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\bin\Debug\net8.0\Exercicio_Revisao.dll
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\bin\Debug\net8.0\Exercicio_Revisao.pdb
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\obj\Debug\net8.0\Exercicio_Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\obj\Debug\net8.0\Exercicio_Revisao.AssemblyInfoInputs.cache
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\obj\Debug\net8.0\Exercicio_Revisao.AssemblyInfo.cs
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\obj\Debug\net8.0\Exercicio_Revisao.csproj.CoreCompileInputs.cache
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\obj\Debug\net8.0\Exercicio_Revisao.sourcelink.json
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\obj\Debug\net8.0\Exercicio_Revisao.dll
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\obj\Debug\net8.0\refint\Exercicio_Revisao.dll
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\obj\Debug\net8.0\Exercicio_Revisao.pdb
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\obj\Debug\net8.0\Exercicio_Revisao.genruntimeconfig.cache
+C:\Users\alannileal\Documents\Alanni\Exercicio_Revisao\obj\Debug\net8.0\ref\Exercicio_Revisao.dll

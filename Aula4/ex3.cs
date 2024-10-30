@@ -2,7 +2,7 @@ using System;
 
 namespace Aula4_
 {
-    class Exercicio2__
+    class Exercicio3__
     {
         static void Main(string[] args)
         {
@@ -46,5 +46,5 @@ namespace Aula4_
         }
 
         }
-        }
+        }   
 }
