@@ -14,7 +14,7 @@ namespace Exercicio_Revisao
 {
     class revisao_
     {
-        static void Main(string[] args)
+        static void Teste()
         {
             System.Console.WriteLine("Informe seu DDD");
             int DDD =  int.Parse(System.Console.ReadLine());
