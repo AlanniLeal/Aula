@@ -4,7 +4,7 @@ namespace Exercicio_Revisao
 {
     class exerc__
     {
-        static void Main(string[] args)
+        static void Teste()
         {
             System.Console.WriteLine("Informe o tamanho da matriz (n x n): ");
             int n = int.Parse(Console.ReadLine());
