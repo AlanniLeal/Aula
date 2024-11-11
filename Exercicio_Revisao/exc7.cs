@@ -4,7 +4,7 @@ namespace Exercicio_Revisao
 {
     class exc7
     {
-        static void Main(string[] args)
+        static void Teste()
         {
             double[] numeros = new double[10];
             double soma = 0;

@@ -17,7 +17,7 @@ namespace Atividades2
 
             }
         }
-        static void Main(string[] args)
+        static void Teste()
 
         {
             int[,] matriz = new int[4, 4] {
@@ -28,6 +28,9 @@ namespace Atividades2
            };
         
                 int somaDiagonalPrincipal, somaDiagonalSecundaria;
+
+                SomaDiagonais(matriz, out somaDiagonalPrincipal, out somaDiagonalSecundaria);
+
                 Console.WriteLine($"A soma dos elementos da diagonal principal é: {somaDiagonalPrincipal}");
                 Console.WriteLine($"A soma dos elementos da diagonal principal é: {somaDiagonalSecundaria}");
         }
