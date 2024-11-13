@@ -33,7 +33,7 @@ namespace Atividade
             }
         }
 
-        static void Main(string[] args)
+        static void Teste()
         {
            
             int[,] matriz = new int[3, 3] {

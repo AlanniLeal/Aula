@@ -1,0 +1,15 @@
+C:\Users\alannileal\Documents\Alanni\Ativ\obj\Debug\net8.0\Ativ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alannileal\Documents\Alanni\Ativ\obj\Debug\net8.0\Ativ.AssemblyInfoInputs.cache
+C:\Users\alannileal\Documents\Alanni\Ativ\obj\Debug\net8.0\Ativ.AssemblyInfo.cs
+C:\Users\alannileal\Documents\Alanni\Ativ\obj\Debug\net8.0\Ativ.csproj.CoreCompileInputs.cache
+C:\Users\alannileal\Documents\Alanni\Ativ\obj\Debug\net8.0\Ativ.sourcelink.json
+C:\Users\alannileal\Documents\Alanni\Ativ\bin\Debug\net8.0\Ativ.exe
+C:\Users\alannileal\Documents\Alanni\Ativ\bin\Debug\net8.0\Ativ.deps.json
+C:\Users\alannileal\Documents\Alanni\Ativ\bin\Debug\net8.0\Ativ.runtimeconfig.json
+C:\Users\alannileal\Documents\Alanni\Ativ\bin\Debug\net8.0\Ativ.dll
+C:\Users\alannileal\Documents\Alanni\Ativ\bin\Debug\net8.0\Ativ.pdb
+C:\Users\alannileal\Documents\Alanni\Ativ\obj\Debug\net8.0\Ativ.dll
+C:\Users\alannileal\Documents\Alanni\Ativ\obj\Debug\net8.0\refint\Ativ.dll
+C:\Users\alannileal\Documents\Alanni\Ativ\obj\Debug\net8.0\Ativ.pdb
+C:\Users\alannileal\Documents\Alanni\Ativ\obj\Debug\net8.0\Ativ.genruntimeconfig.cache
+C:\Users\alannileal\Documents\Alanni\Ativ\obj\Debug\net8.0\ref\Ativ.dll
