@@ -1,0 +1,15 @@
+C:\Users\alannileal\Documents\Alanni\Exerc1811\obj\Debug\net8.0\Exerc1811.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alannileal\Documents\Alanni\Exerc1811\obj\Debug\net8.0\Exerc1811.AssemblyInfoInputs.cache
+C:\Users\alannileal\Documents\Alanni\Exerc1811\obj\Debug\net8.0\Exerc1811.AssemblyInfo.cs
+C:\Users\alannileal\Documents\Alanni\Exerc1811\obj\Debug\net8.0\Exerc1811.csproj.CoreCompileInputs.cache
+C:\Users\alannileal\Documents\Alanni\Exerc1811\obj\Debug\net8.0\Exerc1811.sourcelink.json
+C:\Users\alannileal\Documents\Alanni\Exerc1811\bin\Debug\net8.0\Exerc1811.exe
+C:\Users\alannileal\Documents\Alanni\Exerc1811\bin\Debug\net8.0\Exerc1811.deps.json
+C:\Users\alannileal\Documents\Alanni\Exerc1811\bin\Debug\net8.0\Exerc1811.runtimeconfig.json
+C:\Users\alannileal\Documents\Alanni\Exerc1811\bin\Debug\net8.0\Exerc1811.dll
+C:\Users\alannileal\Documents\Alanni\Exerc1811\bin\Debug\net8.0\Exerc1811.pdb
+C:\Users\alannileal\Documents\Alanni\Exerc1811\obj\Debug\net8.0\Exerc1811.dll
+C:\Users\alannileal\Documents\Alanni\Exerc1811\obj\Debug\net8.0\refint\Exerc1811.dll
+C:\Users\alannileal\Documents\Alanni\Exerc1811\obj\Debug\net8.0\Exerc1811.pdb
+C:\Users\alannileal\Documents\Alanni\Exerc1811\obj\Debug\net8.0\Exerc1811.genruntimeconfig.cache
+C:\Users\alannileal\Documents\Alanni\Exerc1811\obj\Debug\net8.0\ref\Exerc1811.dll

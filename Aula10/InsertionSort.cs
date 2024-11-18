@@ -30,7 +30,7 @@ namespace Aula10
             Console.WriteLine(); 
         }
         }
-        static void Main(string[] args)
+        static void Teste()
         {
              int[] vetor = {3, 1, 5, 7, 3, 4, 8, 5};
             System.Console.WriteLine("Vetor desordenado");
